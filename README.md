@@ -1,4 +1,4 @@
-# agentic-rag
+# Agentic Rag
 
 ## Step 1: User query
 
