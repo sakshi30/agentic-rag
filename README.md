@@ -1,5 +1,9 @@
 # Agentic Rag
 
+How often do you wish your AI could do more than just repeat what it already knows? As someone who’s spent countless hours refining and tweaking AI systems, I can tell you that traditional models, while impressive, often feel like they’re stuck in a bubble limited to what they’ve been trained on. Here’s where Agentic RAG comes into the picture.
+
+In agentic RAG, the decision-making abilities of agentic AI meet the adaptability of retrieval-augmented generation (RAG). Together, they form a system that can independently access, reason with, and generate relevant information.
+
 ## Step 1: User query
 
 Whether it’s a simple query or a complex problem, it all starts with a question from the user. This is the spark that sets our pipeline in motion.
